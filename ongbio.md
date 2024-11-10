@@ -1,4 +1,4 @@
 - 👋 Wsp
 - 🌱 I’m currently learning : PHP
 - 📫 How to reach me : ogisha1234 (Discord)
-- ⚡ Fun fact: This is default github bio and i was lazy to make my own so i just changed it a bit
+- ⚡ I code in python and js
